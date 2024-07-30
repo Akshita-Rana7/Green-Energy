@@ -40,7 +40,7 @@
 }
 
 .banner {
-    background-image: url(/images/pexels-kelly-1179532-2800832.jpg);
+    background-image: url(../images/pexels-kelly-1179532-2800832.jpg);
     background-size: cover;
     background-position: 2% 20%;
     background-repeat: no-repeat;
@@ -154,7 +154,7 @@ footer {
     
     
     .banner {
-        background-image: url(/images/pexels-kelly-1179532-2800832.jpg);
+        background-image: url(../images/pexels-kelly-1179532-2800832.jpg);
         background-size: cover;
         background-position: 2% 20%;
         background-repeat: no-repeat;
